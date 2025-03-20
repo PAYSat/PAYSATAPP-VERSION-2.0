@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25866980355",
+    "project_id": "apppaysat-973fc",
+    "storage_bucket": "apppaysat-973fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25866980355:android:289e113349b48d88b0d236",
+        "android_client_info": {
+          "package_name": "com.paysat.proyectos_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBECw1fXDPpbKXlhvQkO0eYtCluFxJL1i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

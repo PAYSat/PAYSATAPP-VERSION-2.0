@@ -1,0 +1,27 @@
+# Flutter/Dart related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+build/
+.idea/
+*.iml
+
+# Android related
+**/android/.gradle
+**/android/local.properties
+
+# Node related
+node_modules/
+package-lock.json
+
+# Logs & temporary files
+*.log
+*.png
+
+# VS Code
+.vscode/
+
+# macOS & Windows
+.DS_Store
+Thumbs.db

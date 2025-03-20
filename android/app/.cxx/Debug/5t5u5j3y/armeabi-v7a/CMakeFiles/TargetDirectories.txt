@@ -1,0 +1,2 @@
+C:/Users/LENOVO/Documents/PAYSATAPP/PAYSATAPP/android/app/.cxx/Debug/5t5u5j3y/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/Documents/PAYSATAPP/PAYSATAPP/android/app/.cxx/Debug/5t5u5j3y/armeabi-v7a/CMakeFiles/rebuild_cache.dir

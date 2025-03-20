@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fondo verde claro -->
+    <item android:drawable="@color/splash_background" />
+
+    <!-- Puedes agregar tu imagen personalizada aquí -->
+    <!--
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/launch_image" />
+    </item>
+    -->
+</layer-list>
